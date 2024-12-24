@@ -1,5 +1,5 @@
 # Cell Segmentation
-The images of cells should first be converted to 8-bit TIFF format. The segmentation process is implemented in the `cell-segment.ipynb` notebook.
+The images of cells should first be converted to 8-bit TIFF format. The segmentation process is implemented in the `CellSegment.ipynb` notebook.
 
 ## Features
 - Simple and effective workflow for cell segmentation.
