@@ -1,6 +1,5 @@
 # Cell Segmentation
-
-This repository provides tools for segmenting individual cells in images using a Jupyter Notebook and ImageJ. The segmentation process is implemented in the `cell-segment.ipynb` notebook.
+The images of cells should first be converted to 8-bit TIFF format. The segmentation process is implemented in the `cell-segment.ipynb` notebook.
 
 ## Features
 - Simple and effective workflow for cell segmentation.
@@ -9,7 +8,7 @@ This repository provides tools for segmenting individual cells in images using a
 
 <br>
 
-# Image Transformation
+# Image Convertion
 Segmented single-cell images, comprising multiple channels such as the mask, fluorescent image, and brightfield image, can be batch-converted to 8-bit TIFF format efficiently using ImageJ.
    
     Process -> Batch -> Convert
