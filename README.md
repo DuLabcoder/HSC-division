@@ -16,7 +16,7 @@ Segmented single-cell images, comprising multiple channels such as the mask, flu
 <br>
 
 # Calculation of Fluorescence Intensity of Daughter Cells
-After converting the images to 8-bit TIFF format, you can calculate the fluorescent intensity of two daughter cells using the `FluoInt.ipynb` notebook.
+After converting the images to 8-bit TIFF format, you can calculate the fluorescence intensity of two daughter cells using the `FluoInt.ipynb` notebook.
 
 <br>
 
